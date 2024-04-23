@@ -51,3 +51,7 @@
     animation-duration: .5s;
     animation-fill-mode: forwards;
   }
+
+  .active{
+    opacity: .5;
+  }
